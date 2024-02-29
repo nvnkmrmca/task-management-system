@@ -1,0 +1,67 @@
+main{
+    float: left;
+    width: 100%;
+    padding: 20px 40px;
+    background-color: #FFFFFF;
+    min-height: 75vh;
+}
+footer{
+    float: left;
+    width: 100%;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.absolute{
+    position: absolute;
+}
+.pointer{
+    cursor: pointer;
+}
+.center{
+    text-align: center;
+}
+.hide{
+    display: none;
+}
+.d100{
+    width: 100%;
+}
+.bold{
+    font-weight: bold;
+}
+.pointer{
+    cursor: pointer;
+}
+.header{
+    height: 70px;
+    background-color: #0078d7; 
+    color: #FFFFFF;
+    line-height: 70px;
+    padding: 0px 10px;
+}
+.footer{
+    height: 30px;
+    border-top: 1px solid #CCCCCC;
+    background-color: #FFFFFF;
+}
+.container{
+    width: 100%;
+    max-width: 100% !important;
+    background-color: #FFFFFF;
+    padding: 0px;
+}
+.content{
+    width: 100%;
+    padding: 20px 20px;
+    min-height: 300px;
+}
+.cook{
+    width: 100%;
+    border-bottom: 1px solid #EEEEEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
